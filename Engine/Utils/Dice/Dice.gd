@@ -1,3 +1,4 @@
+## Recurso que representa a los dados
 class_name Dice extends Resource
 
 @export var sides : int
